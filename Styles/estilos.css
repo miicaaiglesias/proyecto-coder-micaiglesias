@@ -18,7 +18,7 @@ h1 {
 }
 
 .Cata-logo {
-    width: 150px ;
+    width: 250px ;
     height: 50px;
     grid-area: Cata-logo;
     display: flex;
@@ -27,7 +27,7 @@ h1 {
 }
 
 .nav-completa {
-    background-color: #FFA552;
+    background-color:black;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -181,7 +181,7 @@ h2 {
     margin-bottom: 10px;
     font-family: "Inter Tight", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: weight;
     font-style: normal;
 }
 
